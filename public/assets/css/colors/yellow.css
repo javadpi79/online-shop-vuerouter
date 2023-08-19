@@ -1,0 +1,67 @@
+header.main-header .cart a.btn,
+#amazing-slider .carousel-indicators .view-all .btn,
+header.main-header .cart .dropdown-menu .basket-submit,
+.dk-btn-info,
+#main-slider .carousel-indicators li.active,
+.shopping-page header.header-shopping .checkout-steps li a.active::after,
+.shopping-page .radio input[type="radio"]:checked+label::after,
+.checkbox-form .input-checkbox:checked+.checkbox-check, .checkbox-form input[type=checkbox]:checked+.checkbox-check
+,.shopping-page header.header-shopping .checkout-steps li.active::before,
+.cart-page-content .page-content .btn-primary,
+header.main-header .cart a.btn:hover, header.main-header .cart a.btn:focus,
+footer.main-footer .footer-widgets .newsletter form .btn,
+header.main-header .main-menu .list>.list-item>a::before
+{
+    background: #f4d03f;
+}
+
+header.main-header .main-menu .list .list-item.mega-menu .sub-menu .now-ui-icons
+,header.main-header .main-menu .list .list-item.mega-menu .sub-menu li a.main-list-item,header.main-header .main-menu .list .list-item.mega-menu>.sub-menu>li>a,
+.comments-area ol.comment-list li .comment-body .reply a.comment-reply-link,.comments-area ol.comment-list li .commentmetadata a,
+.shopping-page header.header-shopping .checkout-steps li a.active,
+.shopping-page .checkout-contact-btn-edit,
+.success-checkout h1 a, .warning-checkout h1 a,
+.btn-link-border,header.main-header .user-login .dropdown-menu .dropdown-item a.register,
+.btn-neutral.active, .btn-neutral:active, .btn-neutral:active:focus, .btn-neutral:active:hover, .btn-neutral.active:focus, .btn-neutral.active:hover, .show>.btn-neutral.dropdown-toggle, .show>.btn-neutral.dropdown-toggle:focus, .show>.btn-neutral.dropdown-toggle:hover
+{
+    color: #ffd014 !important;
+}
+.navbar a:not(.btn):not(.dropdown-item){
+    color: #dfb200;
+}
+header.main-header .main-menu .list .list-item.mega-menu>.sub-menu>li>a:hover,
+header.main-header .main-menu .list .list-item.mega-menu .sub-menu li a.main-list-item:hover,
+.checkbox-form .input-checkbox:checked+.checkbox-check, .checkbox-form input[type=checkbox]:checked+.checkbox-check,
+.cart-page-content .page-content .btn-primary,
+.cart-page-content .page-content .btn-primary:focus,
+.btn-link-border:after,
+.pager-item.is-active,
+header.main-header .user-login .dropdown-menu .dropdown-item a.register,
+nav.header-responsive ul>li.sub-menu::before
+{
+    border-color: #ffd014 !important;
+}
+.ui-input--quick-search .ui-input-field:focus{
+    border-color: #f4d03f !important;
+}
+header.main-header .user-login .dropdown-menu:after
+{
+    border-color: transparent transparent #f4d03f;
+}
+header.main-header .user-login .dropdown-menu:before,
+.box-tabs-tab .active::before,
+.cart-page-content .page-content .btn-primary:focus,
+footer.main-footer .footer-widgets .newsletter form .btn:focus,
+ footer.main-footer .footer-widgets .newsletter form .btn:active,
+ footer.main-footer .footer-widgets .newsletter form .btn:hover,
+ .pager-item.is-active,
+.listing-sort li a.active,
+header.main-header .cart .dropdown-menu .basket-submit:hover,
+nav.header-responsive ul>li.sub-menu>a::before,
+nav.header-responsive ul>li.sub-menu>a::after
+{
+    background-color: #f0c106;
+}
+.btn-primary:not(:disabled):not(.disabled):active:focus{
+    box-shadow: 0 0 0 0.2rem #ffd014;
+}
